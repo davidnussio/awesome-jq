@@ -48,6 +48,7 @@ _**jq**-based JSON visualizers and explorers_.
 * [atom-jq](https://github.com/sanack/atom-jq) &ndash; Interactive **jq** playground inside the Atom editor.
 * [jq-mode](https://github.com/ljos/jq-mode) &ndash; A **jq** mode for Emacs.
 * [vscode-jq](https://github.com/andricDu/vscode-jq) &ndash; A **jq** extension for VS Code.
+* [vscode-jq-playground](https://github.com/davidnussio/vscode-jq-playground) &ndash; Interactive **jq** playground for VS Code.
 
 
 Documentation
